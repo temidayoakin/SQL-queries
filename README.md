@@ -1,1 +1,1 @@
-# SQL-queries
+This repository contains SQL queries
